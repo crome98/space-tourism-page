@@ -1,0 +1,486 @@
+body {
+  font-family: 'Bellefair', serif;
+  background-image: url("../assets/destination/background-destination-desktop.jpg");
+
+  position: relative;
+  margin: 0;
+  height: 900px;
+  width: 1440px;
+}
+
+.moon-img {
+  position: absolute;
+  width: 455px;
+  height: 455px;
+  left: 230px;
+  top: 343px;
+}
+
+/*********************************** group-3 ***********************************/
+
+.group-3 {
+  position: absolute;
+  width: 1385px;
+  height: 96px;
+  left: 55px;
+  top: 40px;
+}
+
+/*********************************** group-17 ***********************************/
+.group-17 {
+  position: absolute;
+  width: 542px;
+  height: 19px;
+  left: 678px;
+  top: 39px;
+}
+
+/*********************************** group-2-copy-2 ***********************************/
+.group-2-copy-2 {
+  position: absolute;
+  width: 127px;
+  height: 19px;
+  right: 0;
+}
+
+.TECHNOLOGY {
+  /* Text */
+  font-family: 'Barlow Condensed', sans-serif;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  font-size: 16px;
+  color: #FFFFFF;
+
+  /* Layout */
+  margin: 0;
+  height: 19px;
+  position: absolute;
+  right: 0;
+  left: 22.83%;
+  top: calc(50% - 19px/2);
+}
+
+.group-2-copy-2-03 {
+  /* Text */
+  font-family: 'Barlow Condensed', sans-serif;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  font-size: 16px;
+  color: #FFFFFF;
+
+  /* Layout */
+  margin: 0;
+  height: 19px;
+  position: absolute;
+  left: 0;
+  right: 84.25%;
+  top: calc(50% - 19px/2);
+}
+/*********************************** group-2-copy-2 ***********************************/
+
+/*********************************** group-2-copy ***********************************/
+.group-2-copy {
+  position: absolute;
+  width: 71px;
+  height: 19px;
+  left: 296px;
+  top: 0;
+}
+
+.CREW {
+  /* Text */
+  font-family: 'Barlow Condensed', sans-serif;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  font-size: 16px;
+  color: #FFFFFF;
+
+  /* Layout */
+  margin: 0;
+  height: 19px;
+  position: absolute;
+  left: 40.85px;
+  right: 0;
+  top: calc(50% - 19px/2);
+
+}
+
+.group-2-copy-02   {
+  /* Text */
+  font-family: 'Barlow Condensed', sans-serif;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  font-size: 16px;
+  color: #FFFFFF;
+
+  /* Layout */
+  margin: 0;
+  height: 19px;
+  position: absolute;
+  left: 0;
+  right: 71.83%;
+  top: calc(50% - 19px/2);
+}
+/*********************************** group-2-copy ***********************************/
+
+/*********************************** group-2-copy-3 ***********************************/
+.group-2-copy-3 {
+  height: 19px;
+  position: absolute;
+  left: 0;
+  right: 472px;
+  top: 0;
+}
+
+.HOME {
+  /* Text */
+  font-family: 'Barlow Condensed', sans-serif;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  font-size: 16px;
+  color: #FFFFFF;
+
+  /* Layout */
+  margin: 0;
+  position: absolute;
+  height: 19px;
+  left: 41.43%;
+  right: 0;
+  top: calc(50% - 19px/2);
+}
+
+.group-2-copy-3-00 {
+  /* Text */
+  font-family: 'Barlow Condensed', sans-serif;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  font-size: 16px;
+  color: #FFFFFF;
+
+  /* Layout */
+  margin: 0;
+  position: absolute;
+  height: 19px;
+  left: 0;
+  right: 71.43%;
+  top: calc(50% - 19px/2);
+}
+
+/*********************************** group-2-copy-3 ***********************************/
+
+/*********************************** group-17-group-2 ***********************************/
+.group-17-group-2 {
+  position: absolute;
+  height: 19px;
+  left: 118px;
+  right: 294px;
+  top: 0;
+}
+
+.group-17-group-2-DESTINATION {
+  /* Text */
+  font-family: 'Barlow Condensed', sans-serif;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  font-size: 16px;
+  color: #FFFFFF;
+
+  /* Layout */
+  margin: 0;
+  position: absolute;
+  height: 19px;
+  left: 22.31%;
+  right: 0;
+  top: calc(50% - 19px/2);
+}
+
+.group-17-group-2-01 {
+  /* Text */
+  font-family: 'Barlow Condensed', sans-serif;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  font-size: 16px;
+  color: #FFFFFF;
+
+  /* Layout */
+  margin: 0;
+  position: absolute;
+  height: 19px;
+  left: 0;
+  right: 86.15%;
+  top: calc(50% - 19px/2);
+}
+
+/*********************************** group-17-group-2 ***********************************/
+
+/*********************************** group-17 ***********************************/
+
+.rect-2 {
+  position: absolute;
+  width: 473px;
+  height: 1px;
+  left: 112px;
+  top: 48px;
+
+  background-color: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.25;
+}
+
+.rect-3 {
+  position: absolute;
+  width: 830px;
+  height: 96px;
+  left: 555px;
+  top: 0;
+
+  background-color: rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(81.5485px);
+}
+
+/*********************************** group-2 ***********************************/
+.group-2 {
+  /* Position */
+  position: absolute;
+  height: 48px;
+  width: 48px;
+  left: 0;
+  top: 24px;
+
+  /* Border */
+  border: solid 2px #000000;
+  border-radius: 50%;
+
+  background-color: #FFFFFF;
+}
+/*********************************** group-2 ***********************************/
+
+/*********************************** group-3 ***********************************/
+
+/* ########################################################################## */
+
+/*********************************** group-6 ***********************************/
+.group-6 {
+  position: absolute;
+  width: 445px;
+  height: 472px;
+  left: 832px;
+  top: 310px;
+}
+
+.group-6-rect-1 {
+  background-color: #383B4B;
+  width: 444px;
+  height: 1px;
+
+  position: absolute;
+  left: 0.22%;
+  right: 0;
+  top: 80.93%;
+  bottom: 18.86%;
+}
+
+/*********************************** group-4 ***********************************/
+.group-4 {
+  width: 285.5;
+  height: 34px;
+
+  position: absolute;
+  left: 0;
+  right: 35.84%;
+  top: 0;
+  bottom: 92.8%;
+}
+
+.group-4-rect-1 {
+  background-color: #FFFFFF;
+  width: 41px;
+  height: 1px;
+
+  position: absolute;
+  left: 0;
+  right: 85.64%;
+  top: 91.18;
+  bottom: 0;
+}
+
+.group-4-indicator-europa {
+  /* text */
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 16px;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  color: #D0D6F9;
+
+  /* shape */
+  width: 60px;
+  height: 19px;
+
+  /* position */
+  position: absolute;
+  left: 51.66%;
+  right: 27.32%;
+  top: calc(50% - 19px/2 -7.5px);
+}
+
+.group-4-indicator-mars {
+  /* text */
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 16px;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  color: #D0D6F9;
+
+  /* shape */
+  width: 41px;
+  height: 19px;
+
+  /* position */
+  position: absolute;
+  left: 26.09%;
+  right: 59.54%;
+  top: calc(50% - 19px/2 -7.5px);
+}
+
+.group-4-indicator-titan {
+  /* text */
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 16px;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  color: #D0D6F9;
+
+  /* shape */
+  width: 46px;
+  height: 19px;
+
+  /* position */
+  position: absolute;
+  left: 83.89%;
+  right: 0;
+  top: calc(50% - 19px/2 -7.5px);
+}
+
+.group-4-indicator-moon {
+  /* text */
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 16px;
+  line-height: 18.75px;
+  letter-spacing: 2.7px;
+  color: #D0D6F9;
+
+  /* shape */
+  width: 42px;
+  height: 19px;
+
+  /* position */
+  position: absolute;
+  left: 0;
+  right: 85.11%;
+  top: calc(50% - 19px/2 -7.5px);
+}
+
+/*********************************** group-4 ***********************************/
+
+.platnet-description {
+  /* text */
+  font-family: 'Barlow', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 32px;
+  color: #D0D6F9;
+
+  /* shape */
+  width: 444px;
+  height: 128px;
+
+  /* position */
+  position: absolute;
+  left: 0;
+  right: 0.22px;
+  top: calc(50% - 128px/2 + 28px);
+
+}
+
+/*********************************** group-5-copy ***********************************/
+.group-5-copy {
+  /* shape */
+  width: 122px;
+  height: 61px;
+
+  /* position */
+  position: absolute;
+  left: 50%;
+  right: 22.58%;
+  top: 87.08%;
+  bottom: 0;
+}
+
+.estimate-time-title {
+  /* text */
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 14px;
+  line-height: 16.41px;
+  letter-spacing: 2.3625px;
+  color: #D0D6F9;
+
+  /* shape */
+  margin: 0;
+  width: 122px;
+  height: 17px;
+
+  /* position */
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(50% - 17px/2 - 22px);
+
+}
+
+.estimate-time {
+  /* text */
+  font-family: 'Bellefair', serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32.09px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+
+  /* shape */
+  margin: 0;
+  width: 91px;
+  height: 32px;
+
+  /* position */
+  position: absolute;
+  left: 0;
+  right: 25.41;
+  top: calc(50% - 32px/2 + 14.5px);
+}
+
+/*********************************** group-5-copy ***********************************/
+
+.planet-name {
+  /* text */
+  font-family: 'Bellefair', serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 100px;
+  line-height: 114.6px;
+  color: #FFFFFF;
+
+  /* shape */
+  margin: 0;
+  width: 333px;
+  height: 115px;
+
+  /* position */
+  position: absolute;
+  left: 0.11%;
+  right: 25.06%;
+  top: calc(50% - 115px/2 - 107.5px);
+}
+
+/*********************************** group-6 ***********************************/

@@ -1,13 +1,11 @@
 body {
+  font-family: 'Bellefair', serif;
+  background-image: url("../assets/home/background-home-desktop.jpg"); Temporary remove
+
+  position: relative;
   margin: 0;
   height: 900px;
   width: 1440px;
-  font-family: 'Bellefair', serif;
-  /* position: relative; */
-  background-image: url("../assets/home/background-home-desktop.jpg"); Temporary remove
-  /* background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover; */
 }
 
 .beginning-rect {
@@ -235,7 +233,6 @@ body {
   height: 96px;
   left: 55px;
   top: 40px;
-  /* background-color: black; */
 }
 
 /*********************************** group-16 ***********************************/
