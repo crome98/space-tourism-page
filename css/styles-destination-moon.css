@@ -382,7 +382,7 @@ body {
 
 /*********************************** group-4 ***********************************/
 
-.platnet-description {
+.destination-description {
   /* text */
   font-family: 'Barlow', sans-serif;
   font-weight: 400;
@@ -392,6 +392,7 @@ body {
   color: #D0D6F9;
 
   /* shape */
+  margin: 0;
   width: 444px;
   height: 128px;
 
@@ -461,6 +462,68 @@ body {
 }
 
 /*********************************** group-5-copy ***********************************/
+
+/*********************************** group-5 ***********************************/
+
+.group-5 {
+  /* shape */
+  width: 143px;
+  height: 61px;
+
+  /* position */
+  position: absolute;
+  left: 0.11%;
+  right: 67.75%;
+  top: 87.08%;
+  bottom: 0;
+}
+
+.avg-distance-title {
+  /* text */
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 14px;
+  line-height: 16.41px;
+  letter-spacing: 2.36px;
+  text-transform: uppercase;
+  color: #D0D6F9;
+
+  /* shape */
+  margin: 0;
+  width: 101px;
+  height: 17px;
+
+  /* position */
+  position: absolute;
+  height: 17px;
+  left: 0%;
+  right: 29.37%;
+  top: calc(50% - 17px/2 - 22px);
+}
+
+.avg-distance {
+  /* text */
+  font-family: 'Bellefair', serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+
+  /* shape */
+  margin: 0;
+  width: 143px;
+  height: 32px;
+
+  /* position */
+  position: absolute;
+  height: 32px;
+  left: 0%;
+  right: 0%;
+  top: calc(50% - 32px/2 + 14.5px);
+}
+
+/*********************************** group-5 ***********************************/
 
 .planet-name {
   /* text */
